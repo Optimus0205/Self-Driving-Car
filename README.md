@@ -287,7 +287,7 @@ Press `q` in the display window to stop the simulation.
 
 ## 📄 License
 
-This project is intended to be released under the **MIT License** (as declared in `setup.py`). Add a `LICENSE` file to the repository root to make this official.
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 

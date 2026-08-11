@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Driving dataset
+data/driving_dataset/
+model_training/train_steering_angle/data/driving_dataset/
+
+# TensorFlow training logs
+**/logs/
+*.tfevents.*
+
+# TensorFlow training checkpoints
+model_training/train_steering_angle/save/
